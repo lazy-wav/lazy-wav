@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/s-sakshi9317?tab=repositories)
 
-- 📫 How to reach me [**✉️**](s.sakshi9317@gmail.com)
+<!--- 📫 How to reach me [**✉️**](s.sakshi9317@gmail.com)-->
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-sakshi9317" alt="s-sakshi9317" /></a> </p>
