@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-sakshi9317" alt="s-sakshi9317" /></a> </p>
 <br>
 <h3 align="left">Let's Connect!</h3> 
-<!--![giphy](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/1242fd51-2074-4b00-9c31-6414de41b139)-->>
+<!--![giphy](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/1242fd51-2074-4b00-9c31-6414de41b139)-->
 
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-9317-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-9317-s" height="30" width="40" /></a>
