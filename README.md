@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi👋, I'm Sakshi Singh</h1>
+![portal_black](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)
 
-![200w](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/3c1b8232-2da8-4a6e-98be-adad5bfe3e4d)
+
+<h1 align="center">Hi👋, I'm Sakshi Singh</h1>   
+
 
 
 <!--<h3 align="center">A passionate frontend developer from India</h3>-->
@@ -20,6 +22,9 @@
 <br>
 <h3 align="left">Let's Connect!</h3> 
 <!--![giphy](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/1242fd51-2074-4b00-9c31-6414de41b139)-->
+<p align="right"> 
+
+ ![200w](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/13afd29c-7ada-4e2f-a979-c5691d56ed98)
 
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-9317-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-9317-s" height="30" width="40" /></a>
