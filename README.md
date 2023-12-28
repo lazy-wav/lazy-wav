@@ -1,6 +1,7 @@
 
+<h1 align="center">Hi👋, I'm Sakshi Singh</h1>
 
-![1_BlECSgJR2OypT6KdbBhYIg](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/dfaecfd6-80d2-4a66-9747-3f71faa2937c) <h1 align="center">Hi👋, I'm Sakshi Singh</h1>
+![200w](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/3c1b8232-2da8-4a6e-98be-adad5bfe3e4d)
 
 
 <!--<h3 align="center">A passionate frontend developer from India</h3>-->
