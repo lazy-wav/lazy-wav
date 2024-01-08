@@ -24,7 +24,10 @@
 <!--![giphy](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/1242fd51-2074-4b00-9c31-6414de41b139)-->
 <p align="right"> 
 
- ![200w](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/13afd29c-7ada-4e2f-a979-c5691d56ed98)
+<!--""robot" ![200w](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/13afd29c-7ada-4e2f-a979-c5691d56ed98)-->
+![bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/4e877100-d57a-43ba-a814-8d61be8085f7)
+
+
 
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-9317-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-9317-s" height="30" width="40" /></a>
