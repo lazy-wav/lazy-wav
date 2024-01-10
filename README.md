@@ -1,4 +1,4 @@
-![portal_black](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)
+
 # 💫 Sakshi Singh
 <h1 align='center'>Hi, I'm Sakshi! ✨</h1>
 
