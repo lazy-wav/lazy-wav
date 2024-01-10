@@ -13,7 +13,7 @@ Let's build, one commit at a time! o(￣▽￣)ｄ
 - 🔥 Aspiring intern seeking collaborative projects to contribute and learn.
 - 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/s-sakshi9317?tab=repositories)
 
-
+![portal_black](https://github.com/s-sakshi9317/s-sakshi9317/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)
 ## 🌐 Let's Connect:
 [![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:s.sakshi9317@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-9317-s)
