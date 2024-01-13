@@ -8,7 +8,7 @@ Let's build, one commit at a time! o(￣▽￣)ｄ
 
 <br>
 
-- ⭐ Currently a 2nd year Computer Science & Engineering student at **Guru Gobind Singh Indraprastha University.**
+- ⭐ Currently a 2nd year Computer Science & Engineering student at **Guru Gobind Singh Indraprastha University, Delhi, India.**
 - 🌱 I’m currently **expanding my skill set in various languages and technologies.**
 - 🔥 Aspiring intern seeking collaborative projects to contribute and learn.
 - 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/s-sakshi9317?tab=repositories)
