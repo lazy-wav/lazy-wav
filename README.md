@@ -1,10 +1,10 @@
 
-# 💫 Sakshi Singh
-<h1 align='center'>Hi, I'm Sakshi! ✨</h1>
+#<h1 align='center'>  Hi, I'm Sakshi!✨ 
+<h1 align='center'>Passionate Developer</h1>
 
 <br>
 
-Let's build, one commit at a time! o(￣▽￣)ｄ
+Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 
 <br>
 
