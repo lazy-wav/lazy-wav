@@ -22,7 +22,7 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 [![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript)](https://github.com/s-sakshi9317)
 
 ### Frameworks and Libraries
-[![Development](https://skillicons.dev/icons?i=git,react)](https://github.com/s-sakshi9317)
+[![Development](https://skillicons.dev/icons?i=git,react,tailwindcss)](https://github.com/s-sakshi9317)
 
 ### Databases and Cloud Platforms 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=azure,mysql,github,replit)](https://github.com/s-sakshi9317)
