@@ -15,10 +15,6 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 
 
 ## 🌐 Let's Connect
-[![](https://skillicons.dev/icons?i=gmail)](mailto:s.sakshi9317@gmail.com),
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sakshisingh9317),
-[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/luffy._.777)
-
 [![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:s.sakshi9317@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisingh9317)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/luffy._.777)
