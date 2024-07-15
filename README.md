@@ -7,26 +7,29 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 
 <br>
 
-- ⭐ Currently a 2nd year Computer Science & Engineering student.
+- ⭐ Currently a 3rd year Computer Science & Engineering student.
 - 🌱 I’m currently **expanding my skill set in various languages and technologies.**
 - 🔥 Aspiring intern seeking collaborative projects to contribute and learn.
 - 👨‍💻 All of my projects are available at: [**CLICK HERE**](https://github.com/lazy-wav?tab=repositories)
 
-[![portal_black](https://github.com/lazy-wav/lazy-wav/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)](hehe)
+
+
 ## 🌐 Let's Connect
+[![](https://skillicons.dev/icons?i=gmail)](mailto:s.sakshi9317@gmail.com),
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sakshisingh9317),
+[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/luffy._.777)
+
 [![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:s.sakshi9317@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-9317-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisingh9317)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/luffy._.777)
 
 ## 👩‍💻Tech Stack
 ### Languages 
-[![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript)](https://github.com/lazy-wav)
-### Frameworks and Libraries
-[![Development](https://skillicons.dev/icons?i=git,react,tailwindcss)](https://github.com/lazy-wav)
-### Databases and Cloud Platforms 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=azure,mysql,github,replit)](https://github.com/lazy-wav)
-### Designing Tools
-[![IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman)](https://github.com/lazy-wav)
+![Programming Languages](https://skillicons.dev/icons?i=python,cpp,c)
+### Tools and Technologies
+![](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,nodejs,nextjs,opencv,pytorch,tensorflow,scikitlearn,pycharm,mysql)
+### Others 
+![](https://skillicons.dev/icons?i=git,figma)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lazy-wav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
@@ -35,5 +38,7 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lazy-wav&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 ![](https://komarev.com/ghpvc/?username=lazy-wav&color=ff69b4)
+
+[![portal_black](https://github.com/lazy-wav/lazy-wav/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)](hehe)
+
