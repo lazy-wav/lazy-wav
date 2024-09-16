@@ -15,8 +15,8 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 
 
 ## 🌐 Let's Connect
-<a href="https://www.linkedin.com/in/sakshisingh9317"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"> </a>
-<a href="https://discord.gg/luffy._.777"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="90"> </a> <a href="mailto:s.sakshi9317@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="90" /> </a>
+<a href="https://www.linkedin.com/in/sakshisingh9317"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"> </a>
+<a href="https://discord.gg/luffy._.777"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70"> </a> <a href="mailto:s.sakshi9317@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="70" /> </a>
 
 <!--[![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:s.sakshi9317@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshisingh9317)
