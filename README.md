@@ -26,7 +26,7 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 ### Languages 
 ![Programming Languages](https://skillicons.dev/icons?i=python,cpp,c)
 ### Tools and Technologies
-![](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,nodejs,nextjs,opencv,pytorch,tensorflow,scikitlearn,pycharm,mysql)
+![](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,opencv,pytorch,tensorflow,scikitlearn,pycharm,mysql,linux)
 ### Others 
 ![](https://skillicons.dev/icons?i=git,figma)
 
