@@ -23,12 +23,20 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/luffy._.777)-->
 
 ## 👩‍💻Tech Stack
-### Languages 
+| **Category**               | **Tools & Technologies**                                                                 |
+|----------------------------|-----------------------------------------------------------------------------------------|
+| **Programming Languages**  | C++, Python, Java, JavaScript, LaTeX                    |
+| **Machine Learning Libraries** | TensorFlow, PyTorch, Keras, Scikit-Learn, NumPy, Pandas, Matplotlib, OpenCV, Plotly    |
+| **Databases**              | MySQL, MongoDB                                                                |
+| **Web Development**        | HTML, CSS, React, Node.js, Express.js                                     |
+| **Tools & Platforms**      | Git, GitHub, VS Code, Google Colab, Jupyter Notebook, Google Cloud, Vercel   |
+| **Design Tools**           | Figma, Canva                                  |
+<!--### Languages 
 ![Programming Languages](https://skillicons.dev/icons?i=python,cpp,c)
 ### Tools and Technologies
 ![](https://skillicons.dev/icons?i=html,tailwindcss,javascript,react,opencv,pytorch,tensorflow,scikitlearn,pycharm,mysql,linux)
 ### Others 
-![](https://skillicons.dev/icons?i=git,figma)
+![](https://skillicons.dev/icons?i=git,figma)-->
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lazy-wav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
@@ -39,5 +47,5 @@ Let's build, one commit at a time! ( ﾉ ﾟｰﾟ)ﾉ
 ![](https://github-profile-trophy.vercel.app/?username=lazy-wav&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 ![](https://komarev.com/ghpvc/?username=lazy-wav&color=ff69b4)
 
-[![portal_black](https://github.com/lazy-wav/lazy-wav/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)](hehe)
+<!--[![portal_black](https://github.com/lazy-wav/lazy-wav/assets/141143973/77664ee7-0e87-42ea-ae2d-9ef587f387b5)](hehe)-->
 
